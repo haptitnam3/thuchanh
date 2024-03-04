@@ -1,0 +1,50 @@
+body{
+    border: 1px solid black;
+    height: 620px;
+    background-color: whitesmoke;
+}
+#header{
+    line-height: 80px;
+    background-color: rgb(177, 31, 31);
+    color: white;
+    text-align: center;
+    text-shadow: 1px 1px 1px black;
+}
+#truong-nhap{
+    display: inline-block;
+    width: 80%;
+    height: 100%;
+    text-indent: 10px;
+}
+#hoten,#ngaysinh,#cccd,#diachi{
+    font-weight: bold;
+    left: 100px;
+}
+input{
+    width: 100%;
+}
+a{
+    text-decoration: none;
+    color: white;
+    background-color:rgb(177, 31, 31);
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 3px;
+    width: 1000px;
+}
+#anh{
+    display: inline-block;
+}
+table{
+    width: 100%;
+}
+#batdau{
+    text-align: center;
+}
+#lamnbai{
+    border: 0.5px solid black;
+    text-decoration: none;
+    color: white;
+    background-color: red;
+    border-radius: 3px;
+}

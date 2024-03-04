@@ -1,0 +1,40 @@
+#header{
+    line-height: 80px;
+    background-color: rgb(177, 31, 31);
+    color: white;
+    text-align: center;
+    text-shadow: 1px 1px 1px black;
+}
+#sub{
+    width: 100%;
+    text-align: center;
+}
+#nut-sub{
+    color: white;
+    text-decoration: none;
+    background-color:green;
+    border: 0.1px solid black;
+    border-radius: 3px;
+}
+.q{
+    width: 80%;
+}
+#ketqua{
+    border: 1px solid rgb(177, 31, 31);
+    text-align: center;
+    background-color: whitesmoke;
+    line-height: 30px;
+}
+#quaylai{
+    text-decoration: none;
+    text-align: center;
+    background-color: whitesmoke;
+    line-height: 30px;
+}
+#quay{
+    border: 0.5px solid black;
+    text-decoration: none;
+    color: white;
+    background-color: red;
+    border-radius: 3px;
+}
